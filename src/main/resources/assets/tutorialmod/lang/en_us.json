@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.silly": "Silly !!",
+  "item.tutorialmod.test": "Test Item",
+  "item.tutorialmod.icon": "IGNORE !!! - ICON",
+
+  "itemgroup.ruby": "Immurement",
+  "block.tutorialmod.silly_block": "Block of Sillay :D",
+  "block.tutorialmod.gumblo": "GUMBLO",
+  "block.tutorialmod.grassw": "GRASS",
+  "block.tutorialmod.skyw": "SKY"
+}

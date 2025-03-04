@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "Turtorial Mod",
+	"description": "This is a Tutorial Mod! By Kevlr :3!",
+	"authors": [
+		"Kevlar"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/tutorialmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kevlar.tutorialmod.TutorialMod"
+		],
+		"client": [
+			"net.kevlar.tutorialmod.TutorialModClient"
+		],
+		"fabric-datagen": [
+			"net.kevlar.tutorialmod.TutorialModDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"suggests": {
+		"another-mod": "*"
+	}
+}
