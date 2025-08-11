@@ -20,7 +20,6 @@ public class ModItemGroups {
                         entries.add(ModBlocks.SILLY_BLOCK);
                         entries.add(ModItems.TEST);
                         entries.add(ModBlocks.GUMBLO);
-                        entries.add(ModItems.ICON);
                         entries.add(ModBlocks.GRASSW);
                         entries.add(ModBlocks.SKYW);
 

@@ -14,7 +14,7 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("I KNOW WHAT YOU ARE !!");
+		LOGGER.info("Immurement Loaded !! :3c Have fun !! // I KNOW WHAT YOU ARE.");
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
