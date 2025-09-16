@@ -1,5 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-%2304a365)
 ](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_64h.png)](https://discord.gg/eW9GYSxfCA)
 
 ## EVIL WICKED MOD... 
