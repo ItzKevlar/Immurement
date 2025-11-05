@@ -6,8 +6,8 @@
 \
 Precursor (or ultimately the end product) of Immurement.
 So, enjoy what (not very well-made) content is here.\
-*updated 11/5/25 at 5:22PM*\
-Contact me on [Twitter](https://x.com/ItzKevlarr) or [BSky](https://bsky.app/profile/itzkevlar.bsky.social) if needed! If further communication is needed get in touch via Discord!!
+*updated 11/5/25 at 5:25PM*\
+Contact me on [Twitter](https://x.com/ItzKevlarr) or Discord if needed!
 
 [Immurement](https://github.com/ItzKevlar/Immurement) © 2025 by [ItzKevlar](https://x.com/ItzKevlarr) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://i.imgur.com/ylJLPTl.png)![BY](https://i.imgur.com/fTeQ5f4.png)![NC](https://i.imgur.com/lmxh57w.png)![ND](https://i.imgur.com/pFuPm1j.png)
 
