@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "immurement",
+	"version": "${version}",
+	"name": "Immurement",
+	"description": "Sigma, you get in my way? Imma feed you to the sigma",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/ItzKevlar/Immurement"
+	},
+	"license": "CC-BY-NC-ND-4.0",
+	"icon": "assets/immurement/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"itzkevlar.immurement.Immurement"
+		],
+		"fabric-datagen": [
+			"itzkevlar.immurement.ImmurementDataGenerator"
+		],
+		"client": [
+			"itzkevlar.immurement.ImmurementClient"
+		]
+	},
+	"mixins": [
+		"immurement.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
