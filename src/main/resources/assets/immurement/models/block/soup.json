@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "immurement:block/soupfront",
+    "side": "immurement:block/soupside",
+    "top": "immurement:block/souptop",
+    "bottom": "immurement:block/soupbottom"
+  }
+}
